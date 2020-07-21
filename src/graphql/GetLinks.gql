@@ -1,0 +1,7 @@
+query GetLinks {
+  locises {
+    id
+    title
+    url
+  }
+}
